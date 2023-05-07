@@ -104,7 +104,11 @@ html {
     margin: 0.5em 0 1em;
     padding: 1em 0.5em;
     border-radius: 10px;
-    border: 2px solid #af6893;
+    border: 2px solid #6e194c;
+}
+
+.cadastrar:hover{
+    background-color: #a04c7e;
 }
 
 .adicionar label {

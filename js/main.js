@@ -106,7 +106,7 @@ caixaPesquisa.addEventListener("input", function() {
     const textoItemSemDeletar = textoItem.replace("deletar", "");
 
     if (textoItemSemDeletar.includes(textoPesquisadoMinusculo)) {
-      item.style.backgroundColor = "yellow";
+      item.style.backgroundColor = "#af6893";
     } else {
       item.style.backgroundColor = "";
     }
