@@ -1,6 +1,6 @@
 # Mochila Nômade
 
-Projeto base da Alura, com implementações feita por @EvertonKauan.
+Projeto base da Alura, com implementações feitas por @EvertonKauan.
 
 Tem o objetivo de gerenciar elementos que serão levados para uma viagem, com o intuito de o viajante não esquecer nada.
 
